@@ -1,0 +1,5 @@
+Apples     Oranges     Pineapples
+$20        $10         $30
+
+ {3,}
+\s+
