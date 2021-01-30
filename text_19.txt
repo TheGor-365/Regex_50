@@ -1,0 +1,6 @@
+dog.jpg
+cat.jpg
+mouse.jpg
+
+^
+http://www.example.com/images/
