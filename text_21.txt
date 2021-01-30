@@ -1,0 +1,6 @@
+http://example.com/events/
+http://example.com/people/
+http://example.com/places/
+
+$
+index.html
